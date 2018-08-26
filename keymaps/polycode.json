@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "ctrl-alt-t": "polycode:translate",
-    "ctrl-alt-cmd-t": "polycode:untranslate"
+    "ctrl-alt-cmd-t": "polycode:untranslate",
+    "ctrl-alt-cmd-d": "polycode:definition"
   }
 }

@@ -8,6 +8,10 @@
       {
         "label": "Untranslate project",
         "command": "polycode:untranslate"
+      },
+      {
+        "label": "Get definition",
+        "command": "polycode:definition"
       }
     ]
   },
