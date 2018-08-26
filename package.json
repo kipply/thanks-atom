@@ -8,7 +8,7 @@
     "atom-workspace": "polycode:translate",
     "atom-workspace": "polycode:untranslate"
   },
-  "repository": "https://github.com/froothacks/polycode",
+  "repository": "https://github.com/kipply/thanks-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
